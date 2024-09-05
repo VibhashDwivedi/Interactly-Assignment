@@ -10,7 +10,7 @@ To get started, clone the repository and navigate to the project directory:
   ```
 ## Steps to Run First Task
 
-1. Navigate to the first-assignment Directory:
+1. **Navigate to the first-assignment Directory:**
     ```sh
     cd first-assignment
     ```
