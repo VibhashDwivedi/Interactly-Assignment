@@ -8,7 +8,8 @@ To get started, clone the repository and navigate to the project directory:
   git clone <repository-url>
   cd <repository-directory>
   ```
-# Steps to Run First Task
+---
+# Steps to Run Task 1:
 
 1. **Navigate to the first-assignment Directory:**
     ```sh
@@ -52,7 +53,7 @@ The server will run successfully on port `8000`. Use Postman or any other API cl
   ---
   
 
-# Steps to Run Second Task
+# Steps to Run Task 2:
 
 1. **Navigate to the first-assignment Directory:**
     ```sh
