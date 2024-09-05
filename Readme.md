@@ -76,7 +76,7 @@ The server will run successfully on port `8000`. Use Postman or any other API cl
      ```
 
 4. **Expose Your Local Server to the Internet Using ngrok:**
-   To allow Twilio to communicate with your local server, you need to expose it to the internet. You can use `ngrok` for this purpose.
+   To allow Twilio to communicate with our local server, wou need to expose it to the internet. We will use `ngrok` for this purpose.
 
     - *Install ngrok:* 
     If you haven't installed ngrok yet, download it from ngrok.com and follow the installation instructions.
