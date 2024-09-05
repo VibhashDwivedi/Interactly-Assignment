@@ -32,22 +32,22 @@ The server will run successfully on port `8000`. Use Postman or any other API cl
 
 ### Screenshots
 
-- Create Contact
+- `Create Contact`
   ![](https://github.com/VibhashDwivedi/Interactly-Assignment/blob/main/Screenshots/Screenshot%20(321).png?raw=true)
   
   ![](https://github.com/VibhashDwivedi/Interactly-Assignment/blob/main/Screenshots/Screenshot%20(322).png?raw=true)
 
-- Get Contact
+- `Get Contact`
   ![](https://github.com/VibhashDwivedi/Interactly-Assignment/blob/main/Screenshots/Screenshot%20(323).png?raw=true)
 
   ![](https://github.com/VibhashDwivedi/Interactly-Assignment/blob/main/Screenshots/Screenshot%20(324).png?raw=true)
 
-- Update Contact
+- `Update Contact`
   ![](https://github.com/VibhashDwivedi/Interactly-Assignment/blob/main/Screenshots/Screenshot%20(325).png?raw=true)
 
   ![](https://github.com/VibhashDwivedi/Interactly-Assignment/blob/main/Screenshots/Screenshot%20(326).png?raw=true)
 
-- Delete Contact
+- `Delete Contact`
   ![](https://github.com/VibhashDwivedi/Interactly-Assignment/blob/main/Screenshots/Screenshot%20(327).png?raw=true)
 
   ---
