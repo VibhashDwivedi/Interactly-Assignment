@@ -56,7 +56,7 @@ async function createCall() {
     const call = await client.calls.create({
         from: twilioPhoneNumber,
         to: myPhoneNumber,
-        url: 'https://aabc-2405-201-4049-1a-9480-2103-6b2a-acba.ngrok-free.app/ivr' //  ngrok URL 
+        url: 'https://aabc-2405-201-4049-1a-9480-2103-6b2a-acba.ngrok-free.app/ivr' //  <ngrok URL>/ivr 
     });
 
     console.log(call.sid);

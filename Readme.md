@@ -57,7 +57,7 @@ The server will run successfully on port 8000. Use Postman or any other API clie
     ngrok http 3000
     ```
 
-    - Copy the Forwarding URL: After running the above command, ngrok will provide you with a forwarding URL that looks something like http://<ngrok-id>.ngrok.io. This URL will tunnel requests to your local server running on port 3000.
+    - Copy the Forwarding URL: After running the above command, ngrok will provide you with a forwarding URL that looks something like http://<ngrok-id>.ngrok.io. This URL will tunnel requests to your local server running on port 3000. Update this url in createCall function.
 
 5. Start the server
     ```sh
