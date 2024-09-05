@@ -27,7 +27,30 @@ To get started, clone the repository and navigate to the project directory:
     ```sh
     npm run dev
     ```
-The server will run successfully on port 8000. Use Postman or any other API client to perform CRUD operations.
+The server will run successfully on port `8000`. Use Postman or any other API client to perform CRUD operations.
+
+### Screenshots
+
+- Create Contact
+  ![](https://github.com/VibhashDwivedi/Interactly-Assignment/blob/main/Screenshots/Screenshot%20(321).png?raw=true)
+  
+  ![](https://github.com/VibhashDwivedi/Interactly-Assignment/blob/main/Screenshots/Screenshot%20(322).png?raw=true)
+
+- Get Contact
+  ![](https://github.com/VibhashDwivedi/Interactly-Assignment/blob/main/Screenshots/Screenshot%20(323).png?raw=true)
+
+  ![](https://github.com/VibhashDwivedi/Interactly-Assignment/blob/main/Screenshots/Screenshot%20(324).png?raw=true)
+
+- Update Contact
+  ![](https://github.com/VibhashDwivedi/Interactly-Assignment/blob/main/Screenshots/Screenshot%20(325).png?raw=true)
+
+  ![](https://github.com/VibhashDwivedi/Interactly-Assignment/blob/main/Screenshots/Screenshot%20(326).png?raw=true)
+
+- Delete Contact
+  ![](https://github.com/VibhashDwivedi/Interactly-Assignment/blob/main/Screenshots/Screenshot%20(327).png?raw=true)
+
+  ---
+  
 
 ## Steps to Run Second Task
 
@@ -48,7 +71,7 @@ The server will run successfully on port 8000. Use Postman or any other API clie
      ```
 
 4. Expose Your Local Server to the Internet Using ngrok:
-   To allow Twilio to communicate with your local server, you need to expose it to the internet. You can use ngrok for this purpose.
+   To allow Twilio to communicate with your local server, you need to expose it to the internet. You can use `ngrok` for this purpose.
 
     - Install ngrok: If you haven't installed ngrok yet, download it from ngrok.com and follow the installation instructions.
 
@@ -57,7 +80,7 @@ The server will run successfully on port 8000. Use Postman or any other API clie
     ngrok http 3000
     ```
 
-    - Copy the Forwarding URL: After running the above command, ngrok will provide you with a forwarding URL that looks something like http://<ngrok-id>.ngrok.io. This URL will tunnel requests to your local server running on port 3000. Update this url in createCall function.
+    - Copy the Forwarding URL: After running the above command, ngrok will provide you with a forwarding URL that looks something like `http://<ngrok-id>.ngrok.io`. This URL will tunnel requests to your local server running on port `3000`. Update this url in `createCall` function.
 
 5. Start the server
     ```sh
