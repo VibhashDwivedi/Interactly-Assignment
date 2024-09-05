@@ -28,7 +28,11 @@ To get started, clone the repository and navigate to the project directory:
     ```sh
     npm run dev
     ```
-The server will run successfully on port `8000`. Use Postman or any other API client to perform CRUD operations.
+The server will run successfully on port `8000`. Use Postman or any other API client to perform CRUD operations. 
+- Goto `localhost:8000/createContact` to create new Contact
+- Goto `localhost:8000/getContact` to get Contact details using id
+- Goto `localhost:8000/updateContact` to update email and mobile number
+- Goto `localhost:8000/deleteContact` to delete contact using id
 
 ### Screenshots
 
