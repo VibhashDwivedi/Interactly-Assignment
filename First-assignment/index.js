@@ -5,8 +5,8 @@ const fetch = (...args) => import('node-fetch').then(({default: fetch}) => fetch
 const app = express();
 app.use(express.json()); // Middleware to parse JSON bodies
 
-const CONTACTS_API_URL = process.env.CONTACTS_API_URL;
-const API_KEY = process.env.API_KEY;
+const CONTACTS_API_URL = process.env.CONTACTS_API_URL; //Your FreshSales CRM API URL
+const API_KEY = process.env.API_KEY; //Your FreshSales CRM API Key
 const port = 8000;
 
 if (!CONTACTS_API_URL || !API_KEY) {
